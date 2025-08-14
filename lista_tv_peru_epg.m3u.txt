@@ -1,0 +1,84 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es.xml"
+
+########## 📺 CANALES PERÚ ##########
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/FPS5LQe.png" group-title="Perú", TV Perú
+https://cdnhd.iblups.com/hls/OVJNKV4FGR.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://i.imgur.com/MBvLztL.png" group-title="Perú", TV Perú Noticias
+https://cdnhd.iblups.com/hls/OVJNKV4FGR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://i.imgur.com/oQSP3Zp.png" group-title="Perú", Canal IPe
+https://cdnhd.iblups.com/hls/OVJNKV4FGR/ipe.m3u8
+
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/WwTtBtB.png" group-title="Perú", Congreso TV
+https://ythls.onrender.com/channel/UC9qJ1A_yWdKNsJ6vf78vM0g.m3u8
+
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_N_logo_2015.png" group-title="Perú", Canal N
+https://ythls.onrender.com/channel/UCv3Lbfkz6_8L0xgM7tLEo_A.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://i.imgur.com/xEw4YO3.png" group-title="Perú", América TV
+https://ythls.onrender.com/channel/UCeNYDoB-btTn5zF6J8Kc1IQ.m3u8
+
+#EXTINF:-1 tvg-id="LatinaTV.pe" tvg-logo="https://i.imgur.com/nJjkHZU.png" group-title="Perú", Latina TV
+https://ythls.onrender.com/channel/UCpHZYSnD7G8aSSbXZ9L5aMw.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/lx0RAvt.png" group-title="Perú", Exitosa TV
+https://ythls.onrender.com/channel/UCI1g2cZlSZzcO-JM1Flb4fw.m3u8
+
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://i.imgur.com/1ifTvJd.png" group-title="Perú", Willax TV
+https://ythls.onrender.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q.m3u8
+
+#EXTINF:-1 tvg-id="ATVMas.pe" tvg-logo="https://i.imgur.com/jvBCl6n.png" group-title="Perú", ATV+
+https://ythls.onrender.com/channel/UCvhQsFrIymYwzT3yL_O2u4g.m3u8
+
+########## 📻 RADIOS PERÚ ##########
+
+#EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/RPP_logo_2017.png" group-title="Radios Perú", RPP Noticias
+https://streamingv2.shoutcast.com/rpp
+
+#EXTINF:-1 tvg-id="RadioNacional.pe" tvg-logo="https://i.imgur.com/cEtZrMr.png" group-title="Radios Perú", Radio Nacional
+https://radiocdnwms.com/8002/stream
+
+#EXTINF:-1 tvg-id="LaZona.pe" tvg-logo="https://i.imgur.com/3nS7DgV.png" group-title="Radios Perú", Radio La Zona
+https://playerservices.streamtheworld.com/api/livestream-redirect/LAZONA_SC?dist=onlineradiobox
+
+#EXTINF:-1 tvg-id="Oxigeno.pe" tvg-logo="https://i.imgur.com/gNAGM5G.png" group-title="Radios Perú", Radio Oxígeno
+https://playerservices.streamtheworld.com/api/livestream-redirect/OXIGENO_SC?dist=onlineradiobox
+
+#EXTINF:-1 tvg-id="Moda.pe" tvg-logo="https://i.imgur.com/tN7Iu5Q.png" group-title="Radios Perú", Radio Moda
+https://playerservices.streamtheworld.com/api/livestream-redirect/MODA_SC?dist=onlineradiobox
+
+########## 🌍 INTERNACIONAL ##########
+
+#EXTINF:-1 tvg-id="NASA.tv" tvg-logo="https://i.imgur.com/yzqapJ0.png" group-title="Internacional", NASA TV
+https://ntv1.akamaized.net/hls/live/2036799/NASA-Tv/master.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/zxZsJcT.png" group-title="Internacional", DW Español
+https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.es" tvg-logo="https://i.imgur.com/3kSPpL0.png" group-title="Internacional", Euronews Español
+https://euronews-euronews-spanish-1-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNes.cn" tvg-logo="https://i.imgur.com/SqAks3R.png" group-title="Internacional", CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-id="France24es.fr" tvg-logo="https://i.imgur.com/fzjctsz.png" group-title="Internacional", France 24 Español
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraes.qa" tvg-logo="https://i.imgur.com/zMQmBNe.png" group-title="Internacional", Al Jazeera Español
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+########## 🎬 CINE Y ENTRETENIMIENTO ##########
+
+#EXTINF:-1 tvg-id="PlutoTVCine.us" tvg-logo="https://i.imgur.com/b3dE40m.png" group-title="Películas", Pluto TV Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df9758a76e3d9000985b15c/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeries.us" tvg-logo="https://i.imgur.com/bR6QCSO.png" group-title="Películas", Pluto TV Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df9758a76e3d9000985b163/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAccion.us" tvg-logo="https://i.imgur.com/1EomcXg.png" group-title="Películas", Pluto TV Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32a0cc6f4a8b0007e8c41e/master.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeEsp.es" tvg-logo="https://i.imgur.com/bqvE1j6.png" group-title="Películas", Runtime Español
+https://runtimeesp-espanol-plex.amagi.tv/playlist.m3u8
